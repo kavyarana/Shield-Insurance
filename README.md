@@ -39,9 +39,9 @@ Dashboard and Presentation: The final Power BI dashboard and supporting presenta
 Documentation: This README provides an overview, insights, and recommendations based on the analysis.
 
 # Dashboard Access
-Explore the live Power BI dashboard here: https://app.powerbi.com/groups/me/reports/31bb39dd-f18c-43c6-8212-6be14db0d63b/3f9410ae2855faa46bfc?experience=power-bi
+Explore the live Power BI dashboard here:https://app.powerbi.com/groups/me/reports/b6fb7c3b-ce18-4b37-8319-f1efcb6499bd/238e8f82190c18bb0110?experience=power-bi
 
-# Tools Used](https://app.powerbi.com/groups/me/reports/6725599d-8d40-4eaf-82c6-a3a3c3925a34/2ff0633d6459cb2c4022?experience=power-bi)
+# Tools Used
 Microsoft Power BI: For creating an interactive and insightful dashboard.
 Microsoft PowerPoint: For preparing the final presentation.
 
