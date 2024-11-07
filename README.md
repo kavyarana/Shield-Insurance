@@ -40,8 +40,7 @@ Documentation: This README provides an overview, insights, and recommendations b
 
 # Dashboard Access
 Explore the live Power BI dashboard here:https://app.powerbi.com/groups/me/reports/b6fb7c3b-ce18-4b37-8319-f1efcb6499bd/238e8f82190c18bb0110?experience=power-bi
-Presentation video: https://www.linkedin.com/posts/kavya-rana_codebasicsvirtualinternship-dataanalytics-activity-7259918465375854599-D-IG?utm_source=share&utm_medium=member_desktop
-
+Presentation video: https://www.linkedin.com/posts/kavya-rana_codebasicsvirtualinternship-dataanalytics-activity-7260248423117778944-Yaks?utm_source=share&utm_medium=member_desktop
 # Tools Used
 Microsoft Power BI: For creating an interactive and insightful dashboard.
 Microsoft PowerPoint: For preparing the final presentation.
